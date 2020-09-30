@@ -1,9 +1,9 @@
 Copyright (C) 2020 - Xiaomi-SDM-720G Project
 
-Decommonised And Unified Device Tree for Xiaomi SM6250 /SDM720G/ based devices
+Decommonised And Unified Device Tree for Xiaomi SDM720G
 ==============
 
-Device configuration for the Redmi Note 9S (International) / 9 Pro (India)
+Redmi Note 9S (International) / 9 Pro (India)
 ============================================
 
 The Redmi Note 9S (International) / 9 Pro (India) (codenamed _"curtana"_) is a mid range smartphone from Xiaomi's sub-brand Redmi.
@@ -23,11 +23,7 @@ Storage | 64/128 GB
 Battery | Non-removable Li-Po 5020 mAh battery
 Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, IPS LCD (~395 ppi density)
 
-## Device picture
-
-![Redmi Note 9S / 9 Pro (India)](https://cdn-files.kimovil.com/default/0004/36/thumb_335718_default_big.jpeg "Redmi Note 9S / 9 Pro (India)")
-
-Device configuration for the Redmi Note 9 Pro Max (India)
+Redmi Note 9 Pro Max (India)
 ============================================
 
 The Redmi Note 9 Pro Max (India) (codenamed _"excalibur"_) is a mid range smartphone from Xiaomi's sub-brand Redmi.
@@ -47,11 +43,7 @@ Storage | 64/128 GB
 Battery | Non-removable Li-Po 5020 mAh battery
 Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, IPS LCD (~395 ppi density)
 
-## Device picture
-
-![Redmi Note 9 Pro Max (India)](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-9-pro-max-1.jpg "Redmi Note 9 Pro Max (India)")
-
-Device configuration for the Redmi Note 9 Pro (Global)
+Redmi Note 9 Pro (Global)
 ============================================
 
 The Redmi Note 9 Pro (Global) (codenamed _"joyeuse"_) is a mid range smartphone from Xiaomi's sub-brand Redmi.
@@ -71,11 +63,7 @@ Storage | 64/128 GB
 Battery | Non-removable Li-Po 5020 mAh battery
 Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, IPS LCD (~395 ppi density)
 
-## Device picture
-
-![Redmi Note 9 Pro Global](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-9-pro-global-0.jpg "Redmi Note 9 Pro Global")
-
-Device configuration for the POCO M2 Pro
+POCO M2 Pro
 ============================================
 
 The POCO M2 Pro) (codenamed _"gram"_) is a mid range smartphone from Xiaomi's sub-brand POCO.
@@ -95,6 +83,3 @@ Storage | 64/128 GB
 Battery | Non-removable Li-Po 5020 mAh battery
 Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, IPS LCD (~395 ppi density)
 
-## Device picture
-
-![POCO M2 Pro](https://fdn2.gsmarena.com/vv/pics/xiaomi/poco-m2-pro-01.jpg "POCO M2 Pro")
