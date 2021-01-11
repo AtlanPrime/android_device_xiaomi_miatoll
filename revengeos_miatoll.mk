@@ -8,15 +8,16 @@
 $(call inherit-product, device/xiaomi/miatoll/device.mk)
 
 # Inherit some common ArrowOS stuff
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/revengeos/config/common.mk)
 
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
-#GApps
-TARGET_GAPPS_ARCH := arm64
+
+# Some Extra's
+REVENGEOS_BUILDTYPE := BlackListed
 
 # Device identifier
-PRODUCT_NAME := aosp_miatoll
+PRODUCT_NAME := revengeos_miatoll
 PRODUCT_DEVICE := miatoll
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := SM6250
